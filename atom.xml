@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Cumulus0816.github.io</id>
     <title>Archive of Cumulus</title>
-    <updated>2022-01-05T06:19:18.478Z</updated>
+    <updated>2022-01-05T06:19:41.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Cumulus0816.github.io"/>
     <link rel="self" href="https://Cumulus0816.github.io/atom.xml"/>
-    <subtitle>一切纯属造谣</subtitle>
+    <subtitle>这里只有废话、谎言和一些故事。</subtitle>
     <logo>https://Cumulus0816.github.io/images/avatar.png</logo>
     <icon>https://Cumulus0816.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Archive of Cumulus</rights>
