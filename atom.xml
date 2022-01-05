@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Cumulus0816.github.io</id>
+    <title>Archive of Cumulus</title>
+    <updated>2022-01-05T05:40:10.139Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Cumulus0816.github.io"/>
+    <link rel="self" href="https://Cumulus0816.github.io/atom.xml"/>
+    <subtitle>一切纯属造谣</subtitle>
+    <logo>https://Cumulus0816.github.io/images/avatar.png</logo>
+    <icon>https://Cumulus0816.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Archive of Cumulus</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://Cumulus0816.github.io/post/hello-world/</id>
+        <link href="https://Cumulus0816.github.io/post/hello-world/">
+        </link>
+        <updated>2022-01-05T05:16:06.000Z</updated>
+        <content type="html"><![CDATA[<p>这是一篇测试的博客，所以这里什么也没有。</p>
+<h1 id="绝望的爱情">绝望的爱情</h1>
+<p>黑夜不愿来<br>
+好让你不来，<br>
+我也不去。<br>
+但我会去的，<br>
+就算太阳的蝎子吃掉我的太阳穴。<br>
+但你会来的<br>
+带着被盐雨灼伤的舌头。<br>
+白天不愿来<br>
+好让你不来，<br>
+我也不去。<br>
+但我会去的<br>
+咬碎的康乃馨交给蟾蜍。<br>
+但你会来的<br>
+黑暗中沿着浑浊的水道。<br>
+黑夜白天都不愿来<br>
+好让我为你而死<br>
+你为我而死。<br>
+但我会去的<br>
+咬碎的康乃馨交给蟾蜍。<br>
+但你会来的<br>
+黑暗中沿着浑浊的水道。</p>
+<p>——<em>洛尔迦｜汪天艾 译</em></p>
+]]></content>
+    </entry>
+</feed>
